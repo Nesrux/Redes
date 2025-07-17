@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "c389d1db20599bee",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ea6cbbff4b2d7d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1e2e092321df5f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proxy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Proxy"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be91e52c36e5e0ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "53323971da10a834",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "460f5b2168bcdcf9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "0188e86e58e3deab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "3aa2b85f892e1644",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "fd52263397d62535",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae183c00864d953f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00124ab6e0faf169",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Redes/Devices/Switch.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Switch"
+            }
+          },
+          {
+            "id": "f696978490f3ab7d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Redes/Devices/Switch.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Switch"
+            }
+          },
+          {
+            "id": "741c4f0fc012459c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4fda7324b530d610",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Redes/Devices/Switch.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Switch"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "b1e2e092321df5f5",
+  "lastOpenFiles": [
+    "Proxy reverso.md",
+    "Redes/Conceitos/WAN.md",
+    "Proxy.md",
+    "Redes/Termos/Duplex.md",
+    "Redes/Tecnologias/VPN.md",
+    "Redes/Tecnologias/Intranet.md",
+    "Redes/Protocolos/Vlan.md",
+    "Redes/Protocolos/IPV4.md",
+    "Redes/Protocolos/Internet Protocol (IP).md",
+    "Redes/Protocolos/Endereço MAC.md",
+    "Redes/Devices/Host.md",
+    "Redes/Devices/Network Infrastructure devices/Roteador.md",
+    "Redes/Devices/Network Infrastructure devices/Network infrastructure devices.md",
+    "Redes/Devices/Network Infrastructure devices/Firewalls.md",
+    "Redes/Devices/Network Access devices/Switch.md",
+    "Redes/Devices/Network Access devices/Network access devices.md",
+    "Redes/Devices/Network Access devices/Hub.md",
+    "Redes/Devices/Network Access devices/Access Point.md",
+    "Redes/Conceitos/LAN.md",
+    "Redes/Conceitos/MAN.md",
+    "Redes/Tecnologias",
+    "MAC.md",
+    "Redes/Termos/Half-Duplex.md",
+    "Redes/Devices/Network Access devices/H.md",
+    "Redes/Devices/Network Infrastructure devices",
+    "Redes/Devices/Network Access devices",
+    "Redes/Conceitos",
+    "Redes/Termos",
+    "Bem-vindo.md",
+    "Redes/Protocolos",
+    "Redes/Devices",
+    "Redes"
+  ]
+}
