@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4ea6cbbff4b2d7d3",
+        "id": "e3f5415013a002d1",
         "type": "tabs",
         "children": [
           {
-            "id": "b1e2e092321df5f5",
+            "id": "b1f61e3955ee268b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proxy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Proxy"
+              "title": "Nova aba"
             }
           }
         ]
@@ -179,37 +165,40 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b1e2e092321df5f5",
+  "active": "b1f61e3955ee268b",
   "lastOpenFiles": [
-    "Proxy reverso.md",
-    "Redes/Conceitos/WAN.md",
+    "Redes/Conceitos/OSI/Camada 3 - Network.md",
     "Proxy.md",
-    "Redes/Termos/Duplex.md",
-    "Redes/Tecnologias/VPN.md",
+    "Proxy reverso.md",
+    "Redes/Conceitos/OSI/Camada 4 - Transport.md",
+    "Redes/Conceitos/OSI/Modelo OSI.md",
+    "Redes/Conceitos/OSI/Camada 5 - Session.md",
+    "Redes/Devices/Network Access devices/Hub.md",
+    "Redes/Devices/Network Infrastructure devices/Roteador.md",
+    "Redes/Conceitos/LAN.md",
+    "Redes/Conceitos/OSI/Camada 7 - Application.md",
+    "Redes/Conceitos/OSI/Camada 6 - Presentation.md",
+    "Redes/Conceitos/OSI",
+    "Redes/Tecnologias/Proxy.md",
     "Redes/Tecnologias/Intranet.md",
     "Redes/Protocolos/Vlan.md",
     "Redes/Protocolos/IPV4.md",
     "Redes/Protocolos/Internet Protocol (IP).md",
     "Redes/Protocolos/Endereço MAC.md",
-    "Redes/Devices/Host.md",
-    "Redes/Devices/Network Infrastructure devices/Roteador.md",
-    "Redes/Devices/Network Infrastructure devices/Network infrastructure devices.md",
-    "Redes/Devices/Network Infrastructure devices/Firewalls.md",
-    "Redes/Devices/Network Access devices/Switch.md",
     "Redes/Devices/Network Access devices/Network access devices.md",
-    "Redes/Devices/Network Access devices/Hub.md",
     "Redes/Devices/Network Access devices/Access Point.md",
-    "Redes/Conceitos/LAN.md",
+    "Redes/Conceitos/WAN.md",
     "Redes/Conceitos/MAN.md",
-    "Redes/Tecnologias",
-    "MAC.md",
+    "Redes/Tecnologias/VPN.md",
+    "DNS.md",
+    "Redes/Tecnologias/Proxy reverso.md",
     "Redes/Termos/Half-Duplex.md",
-    "Redes/Devices/Network Access devices/H.md",
+    "Redes/Termos/Duplex.md",
+    "Redes/Tecnologias",
     "Redes/Devices/Network Infrastructure devices",
     "Redes/Devices/Network Access devices",
     "Redes/Conceitos",
     "Redes/Termos",
-    "Bem-vindo.md",
     "Redes/Protocolos",
     "Redes/Devices",
     "Redes"
