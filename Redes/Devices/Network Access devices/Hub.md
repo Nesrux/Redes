@@ -1,4 +1,4 @@
-Um Hub é um dispositivo de rede da Camada 1 do modelo OSI.
+Um Hub é um dispositivo de rede da Camada 1 do [[modelo OSI]].
 Ele recebe sinais elétricos de um dispositivo e os replica para todas as portas sem nenhum tipo de inteligência ou decisão lógica.
 
 ### Função principal

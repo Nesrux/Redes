@@ -2,7 +2,7 @@ Um Roteador ( Router ) é um dispositivo de rede que conecta diferentes redes en
 
 ## Função principal
 - Encaminhar pacotes entre redes diferentes com base nos endereços IP de origem e destino.
-- Atua na Camada 3 ( Rede ) do modelo OSI.
+- Atua na Camada 3 ( Rede ) do [[modelo OSI]].
 - É o responsável pelo roteamento, ou seja, decidir o melhor caminho que os dados devem seguir até chegar ao destino.
 
 ### Exemplo no mundo real
@@ -15,13 +15,13 @@ Em uma casa, o roteador
 
 ### O que um roteador faz ?
 
-|Função|Explicação|
+| Função                                |Explicação|
 |---|---|
-|**Roteamento IP**|Encaminha pacotes com base em endereços IP.|
-|**NAT (Network Address Translation)**|Traduz IPs privados para IP público (em casa ou empresas pequenas).|
-|**DHCP**|Pode fornecer endereços IP automaticamente.|
-|**Firewall**|Pode bloquear tráfego indesejado com regras.|
-|**QoS, ACL, VPN**|Em modelos mais avançados, gerencia tráfego e segurança.|
+| **Roteamento IP**                     |Encaminha pacotes com base em endereços IP.|
+| **NAT (Network Address Translation)** |Traduz IPs privados para IP público (em casa ou empresas pequenas).|
+| **DHCP**                              |Pode fornecer endereços IP automaticamente.|
+| **Firewall**                          |Pode bloquear tráfego indesejado com regras.|
+| **QoS, ACL, [[VPN]]**                 |Em modelos mais avançados, gerencia tráfego e segurança.|
 
 
 > [!tip] Analogia
