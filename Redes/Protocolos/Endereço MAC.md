@@ -20,13 +20,13 @@ Ele é dividido em duas partes:
 - Cada interface de rede tem seu próprio MAC. em PC com WI-fi e Ethernet tem dois MACs distintos. 
 
 #### Para que serve o endereço MAC ?
-O Mac é usado para identificar dispositivos em uma rede local ( LAN ) de forma unica.
+O Mac é usado para identificar dispositivos em uma rede local ( [[LAN]] ) de forma unica.
 
 Em uma rede com switch, quando um  PC envia dados, o [[Switch]] lê o endereço MAC de destino para saber em qual porta de vê enviar o pacote.
 
 ### Papel na comunicação
 
-#### 1. Comunicação local (LAN)
+#### 1. Comunicação local ([[LAN]])
  -  um computador envia um quadro com o MAC de destino.
  - O switch usa sua tabela MAC para enviar o quadro diretamente ao dispositivo certo.
 
@@ -36,5 +36,5 @@ Em uma rede com switch, quando um  PC envia dados, o [[Switch]] lê o endereço 
 
 
 > [!tip] analogia
-> Se o endereço IP é como o CEP de uma casa, o endereço MAC é como o número de série da caixa de correio, único e fixo, usado internamente no prédio (LAN) para encontrar o destino certo.
+> Se o endereço IP é como o CEP de uma casa, o endereço MAC é como o número de série da caixa de correio, único e fixo, usado internamente no prédio ([[LAN]]) para encontrar o destino certo.
 

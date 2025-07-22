@@ -21,6 +21,6 @@ Exemplo: 192      .  168     .   1     .   10
 ### Componentes importantes do IPv4
 - Endereço do IP : Identifica um host
 - Máscara de sub-rede: define qual parte do IP é rede e qual é host
-- Gateway padrão: roteador para fora da rede
+- Gateway padrão: [[roteador]] para fora da rede
 - Broadcast: envia para todos os hosts da rede
 - NAT: permite acesso à internet com Ips privados.

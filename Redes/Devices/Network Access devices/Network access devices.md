@@ -11,19 +11,19 @@ Eles atual como ponto de entrada fisico ou lógico a uma rede, especialmente em 
 
 #### Exemplos de Network Access Devices
 
-|Tipo de dispositivo|Descrição|
+| Tipo de dispositivo         |Descrição|
 |---|---|
-|**Switch de borda**|Recebe conexões de hosts via cabo (Ethernet)|
-|**Access Point (AP)**|Recebe conexões sem fio (Wi-Fi)|
-|**Controladora wireless**|Controla múltiplos APs, também pode ser NAD|
-|**Porta 802.1X habilitada**|Qualquer porta de switch configurada para autenticação|
+| **Switch de borda**         |Recebe conexões de hosts via cabo (Ethernet)|
+| **[[Access Point]] (AP)**   |Recebe conexões sem fio (Wi-Fi)|
+| **Controladora wireless**   |Controla múltiplos APs, também pode ser NAD|
+| **Porta 802.1X habilitada** |Qualquer porta de switch configurada para autenticação|
 
 
 ### Porque os NADs são importantes ?
 - permitem controle centralizado de acesso à rede
 - Aumentam a segurança, impedindo que qualquer dispositivo se conecte automaticamente.
 - Permitem aplicar políticas baseadas em identidade
-	- VLAN dinâmica
+	- [[Vlan]] dinâmica
 	- ACLs por usuário
 	- Limitação de banda
 
