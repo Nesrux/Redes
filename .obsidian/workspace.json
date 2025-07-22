@@ -11,10 +11,24 @@
             "id": "b1f61e3955ee268b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Redes/Conceitos/OSI/Camada 7 - Application.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": false
+                }
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Camada 7 - Application"
             }
           }
         ]
@@ -166,14 +180,16 @@
   },
   "active": "b1f61e3955ee268b",
   "lastOpenFiles": [
-    "Redes/Tecnologias/Proxy.md",
-    "Redes/Tecnologias/Proxy reverso.md",
-    "Redes/Conceitos/OSI/Modelo OSI.md",
-    "Redes/Conceitos/OSI/Camada 7 - Application.md",
     "Redes/Conceitos/OSI/Camada 6 - Presentation.md",
     "Redes/Conceitos/OSI/Camada 5 - Session.md",
     "Redes/Conceitos/OSI/Camada 4 - Transport.md",
     "Redes/Conceitos/OSI/Camada 3 - Network.md",
+    "Redes/Conceitos/OSI/Camada 2 - Data Link.md",
+    "Redes/Conceitos/OSI/Modelo OSI.md",
+    "Redes/Conceitos/OSI/Camada 1 - phisic.md",
+    "Redes/Tecnologias/Proxy.md",
+    "Redes/Tecnologias/Proxy reverso.md",
+    "Redes/Conceitos/OSI/Camada 7 - Application.md",
     "Redes/Conceitos/OSI",
     "DNS.md",
     "Proxy.md",
@@ -191,7 +207,6 @@
     "Redes/Conceitos/WAN.md",
     "Redes/Conceitos/MAN.md",
     "Redes/Tecnologias/VPN.md",
-    "Redes/Termos/Half-Duplex.md",
     "Redes/Tecnologias",
     "Redes/Devices/Network Infrastructure devices",
     "Redes/Devices/Network Access devices",
